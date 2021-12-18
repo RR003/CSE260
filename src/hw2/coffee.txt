@@ -1,0 +1,8 @@
+Americano,2.15
+Iced Coffee,3.00
+Hot Chocolate,3.75
+Cappuccino,4.50
+Cake Pop,1.95
+Croissant,2.75
+Coffee Cake,2.50
+Sausage & Cheddar Breakfast Sandwich,5.00
